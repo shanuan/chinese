@@ -1,5 +1,5 @@
-##  [v0.0.4](https://github.com/shanuan/chinese/edit/master/README.md)
-
+##  [v0.0.5](https://github.com/shanuan/chinese/edit/master/README.md)
+## [【blog】](https://shanuan.github.io/blog/)
 ## [Issues](Issues)
 
 [http://www.bihuachaxun.com/langdu/items.php](http://www.bihuachaxun.com/langdu/items.php) 
