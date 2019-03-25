@@ -1,4 +1,6 @@
-##  [v0.0.5](https://github.com/shanuan/chinese/edit/master/README.md)
+##  [v0.0.6](https://github.com/shanuan/chinese/edit/master/README.md)
+## [https://shanuan.github.io/chinese-grade-2a/](https://shanuan.github.io/chinese-grade-2a/)
+
 ## [【blog】](https://shanuan.github.io/blog/)
 ## [Issues](Issues)
 
